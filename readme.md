@@ -1,3 +1,3 @@
-# Ticket Fairy Tech Challenge
+# Laravel Ticket Selling API
 
-![Description](./assets/description.png)
+Simple Laravel API Project.
